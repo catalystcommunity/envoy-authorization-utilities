@@ -2,7 +2,7 @@ package test
 
 import (
 	"encoding/json"
-	"github.com/catalystsquad/envoy-authorization-utilities/pkg"
+	"github.com/catalystcommunity/envoy-authorization-utilities/pkg"
 	v3 "github.com/envoyproxy/go-control-plane/envoy/service/auth/v3"
 	"testing"
 )

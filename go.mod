@@ -1,4 +1,4 @@
-module github.com/catalystsquad/envoy-authorization-utilities
+module github.com/catalystcommunity/envoy-authorization-utilities
 
 go 1.18
 
