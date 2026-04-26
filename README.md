@@ -43,10 +43,10 @@ if !shouldIgnore {
 > go test -bench=.
 goos: linux
 goarch: amd64
-pkg: github.com/catalystsquad/envoy-authorization-utilities/test
+pkg: github.com/catalystcommunity/envoy-authorization-utilities/test
 cpu: AMD Ryzen 9 5950X 16-Core Processor            
 BenchmarkShouldAuthUrlPathMatch-32             	14814903	        90.45 ns/op
 BenchmarkShouldAuthGraphqlOperationMatch-32    	 1669678	       754.0 ns/op
 PASS
-ok  	github.com/catalystsquad/envoy-authorization-utilities/test	3.420s
+ok  	github.com/catalystcommunity/envoy-authorization-utilities/test	3.420s
 ```
